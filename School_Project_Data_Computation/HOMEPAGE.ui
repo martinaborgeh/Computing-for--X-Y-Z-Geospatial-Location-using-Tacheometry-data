@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GEOMATIC_SUITE</class>
+ <widget class="QMainWindow" name="GEOMATIC_SUITE">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>819</width>
+    <height>285</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>GEOMATIC SUITE</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(170, 167, 165);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>28</height>
+       </size>
+      </property>
+      <property name="text">
+       <string>GEOMATIC TASK AUTOMATION SUITE</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignHCenter|Qt::AlignTop</set>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QFrame" name="horizontalFrame">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>46</height>
+       </size>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::StyledPanel</enum>
+      </property>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <widget class="QLabel" name="label_2">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>42</height>
+          </size>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::NoFrame</enum>
+         </property>
+         <property name="text">
+          <string>TYPE OF TASK</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QComboBox" name="comboBox">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>20</height>
+          </size>
+         </property>
+         <item>
+          <property name="text">
+           <string>TACHEOMETRIC DETAILING/LEVELLING/TRAVERSING</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>SPIRIT_LEVELLING</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>DATUM TRANSFORMATION</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string/>
+          </property>
+         </item>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+    <item alignment="Qt::AlignHCenter">
+     <widget class="QPushButton" name="pushButton">
+      <property name="text">
+       <string>ENTER</string>
+      </property>
+     </widget>
+    </item>
+    <item alignment="Qt::AlignHCenter">
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>THIS APP WAS DEVELOPED BY MR  MARTIN  ABORGEH, AN INTERMEDIATE PROGRAMMER AND SOFTWARE DEVELEPER PURPOSELY TO AUTOMATE GEOMATIC TASKS</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>819</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
