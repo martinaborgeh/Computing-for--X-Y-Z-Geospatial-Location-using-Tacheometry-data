@@ -1,6 +1,6 @@
 # Computing for X,Y,Z Geospatial Location from Tacheometry Collected Data
 
-![Project Logo](link_to_logo.png) <!-- Add a project logo or banner here -->
+
 
 ## Project Description
 
@@ -20,10 +20,9 @@ Follow these steps to set up and run the project:
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/your-repo.git
+      git clone https://github.com/martinaborgeh/Computing-for--X-Y-Z-Geospatial-Location-using-Tacheometry-data.git
 
-markdown
-Copy code
+
 
 2. Download and install Python and an IDE (e.g., PyCharm or VS Code).
 
@@ -33,8 +32,7 @@ Copy code
 
 pip install PyQt5 pandas
 
-markdown
-Copy code
+
 
 ## Dependencies
 
@@ -45,10 +43,10 @@ The project relies on the following dependencies:
 
 ## Usage
 
-1. Run the application.
-2. Import data or enter it manually.
-3. Click the 'Compute' button.
-4. Export the results to Excel for further analysis in other geospatial software.
+1. Run the  TACHEOMETRY.py 
+2. Import data or enter it manually
+3. Click the 'Compute' button
+4. Export the results to Excel for further analysis in other geospatial software
 
 <!-- You can add screenshots or GIFs here to demonstrate the usage -->
 
@@ -61,8 +59,6 @@ We welcome contributions to this project! If you'd like to get involved, please 
 3. Make your changes and commit them.
 4. Open a pull request to merge your changes into the main branch.
 
-Please review our [contribution guidelines](CONTRIBUTING.md) for more details on how to contribute.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+
