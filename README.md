@@ -3,8 +3,8 @@
 
 
 ## Table of Contents
-- [Overview](#overview)
-- [Installation](#installation)
+- Overview
+- Installation
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
 
-   ```sh
+
    git clone https://github.com/yourusername/your-repo.git
 Download and install Python, if not already installed, and choose your preferred IDE (e.g., PyCharm or VS Code).
 
