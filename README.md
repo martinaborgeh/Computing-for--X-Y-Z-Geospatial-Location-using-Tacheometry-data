@@ -12,7 +12,7 @@ This application simplifies the extraction of X, Y, Z data from tacheometry coll
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [License](#license)
+
 
 ## Installation
 
