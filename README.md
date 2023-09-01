@@ -1,6 +1,6 @@
 # Computing for X,Y,Z Geospatial Location from Tacheometry Collected Data
 
-![Project Logo](link_to_logo.png) <!-- Add a project logo or banner here -->
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -8,7 +8,7 @@
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
